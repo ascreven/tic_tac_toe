@@ -1,6 +1,6 @@
 $(document).ready(function () {
 
-  $("#row_1-column_1").on('click',function (){
-    $("#row_1-column_1").css('background','blue');
+  $('p').on('click',function (){
+    $(this).css('background','blue');
   });
 });
