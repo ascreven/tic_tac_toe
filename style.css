@@ -1,0 +1,23 @@
+p{
+  border: black solid 3px;
+  height: 175px;
+  width: 175px;
+  border-radius: 15px;
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.column_1 {
+  display: inline-block;
+  position: relative;
+}
+
+.column_2 {
+  display: inline-block;
+  position: relative;
+}
+
+.column_3 {
+  display: inline-block;
+  position: relative;
+}
