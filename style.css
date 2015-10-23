@@ -5,6 +5,8 @@ p{
   border-radius: 15px;
   margin-top: 0;
   margin-bottom: 5px;
+  background-repeat: no-repeat;
+  background-image: none;
 }
 
 .column_1 {
@@ -20,4 +22,10 @@ p{
 .column_3 {
   display: inline-block;
   position: relative;
+}
+header {
+  border: black solid 3px;
+  position: relative;
+  float: center;
+  right: center;
 }
